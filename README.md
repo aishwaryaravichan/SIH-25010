@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:26.09.2025
+## Register Number:25017062
+## Name:Aishwarya
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,28 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+The proposed solution is a multilingual,AI-powered mobile application and chatbot platform to provide real-time,crop advisory services for small and marginal farmers.This will integrate soil health data,wearger forecasts,  market prices to provide recommendations on crop selection,fertiliser use, pest and disease management, and irrigation time period.
+
+## flowchart
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
-
+Methodology:
+Data collection like soil data,crop disease datasets .
+AI Model Development:
+training ML models for pest/disease detection.
+Application development:
+Designing farmer-friendly UI with multilingual and voice support.
+Pilot testing:
+Field trials with farmer groups for improvements.
+Deployment:
+Cloud based infrastructure for government integration.
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
-
+Strong avalability of  open datasets and APIs.
+Proven AI/ML technologies for crop advisory.
+Mobile penetration in rural areas making adoption possible.
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
-
+Increased crop yield.
+Cotributes to food security and improved rural livelihoods.
+Data-driven decision-making for future agricultural policies.
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+https://www.leher.ag
