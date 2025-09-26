@@ -44,6 +44,7 @@ Agriculture, FoodTech & Rural Development
 The proposed solution is a multilingual,AI-powered mobile application and chatbot platform to provide real-time,crop advisory services for small and marginal farmers.This will integrate soil health data,wearger forecasts,  market prices to provide recommendations on crop selection,fertiliser use, pest and disease management, and irrigation time period.
 
 ## flowchart
+![Uploading flowchart.jpg…]()
 
 ## Technical Approach
 Methodology:
